@@ -25,14 +25,38 @@ code {
 
 }
 
-h1{
+.name{
   color: white;
-  font-size: 60px;
- padding: 10%;
+  font-size: 20px;
+  padding-top: 25px;
+
 }
 
-h3{
+ .temp{
   color:white;
-  padding-top: 55px;
+  font-size: 60px;
+  padding-top: -50px;
+  
+} 
+
+.min-maxtemp{
+  color: white;
+  margin-top: 15px;
+
+
+
+}
+
+.conditionText{
+  color: white;
+  margin-top: -15px;
+
+  
+}
+
+.icon{
+  color:white;
+  height: 40px;
+ 
 
 }
