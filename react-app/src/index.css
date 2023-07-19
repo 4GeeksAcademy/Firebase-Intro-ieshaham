@@ -60,3 +60,21 @@ code {
  
 
 }
+
+.currenttemp{
+  color: white;
+}
+
+.nexthour{
+  color:white;
+}
+
+.secondhour{
+  color: white;
+}
+
+.list-group {
+  color: white;
+  display:inline-block
+
+}
