@@ -75,12 +75,15 @@ function App() {
             <b>Next 2nd Hour</b>
             {epotch2h} °F
           </div>
+            </div>
+          <div className="hourly">
           {hours.map((hour) => (
             <div className="list-group">
               {!!hour.now && "Now"}
               {hour.formatted_time}
               {hour.temp_f}
             </div>
+              
           ))}
     </div>
     </div>

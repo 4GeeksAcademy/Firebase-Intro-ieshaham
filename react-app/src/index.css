@@ -18,7 +18,7 @@ code {
   
   background-color: black;
   width: 350px;
-  height: 500px;
+  height: 400px;
   border-radius: 10px;
   margin: auto;
   margin-top: 300px;
@@ -67,14 +67,30 @@ code {
 
 .nexthour{
   color:white;
+  margin-top: 5px;
 }
 
 .secondhour{
   color: white;
+  margin-top: 5px;
 }
 
 .list-group {
   color: white;
-  display:inline-block
+  display:inline-block;
+
+}
+
+.hourly{
+  height: 15px;
+  width: 50px;
+  background-color: black;
+  color: white;
+  /* display:inline-block; */
+  width: 350px;
+  height: 150px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 180px;
 
 }
